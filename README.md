@@ -2,8 +2,6 @@
 
 # Project status ✅
 
-<https://img.shields.io/badge/Refactor%20Code-*Refactored-blue>
-
 - Project name is "Horiseon", a marketing company that WANTS a codebase that follows accessibility standards so THAT their site is optimized for SEO.
 
 ## Prerequisites
